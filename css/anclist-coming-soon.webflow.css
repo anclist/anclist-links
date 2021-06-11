@@ -219,6 +219,7 @@ img {
   transition: all 350ms ease;
   text-align: center;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .cta-button:hover {
